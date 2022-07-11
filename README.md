@@ -1,6 +1,6 @@
 # Job Portal
 
-A Flutter project.
+ Mobile App
 
 ## General Information
 
